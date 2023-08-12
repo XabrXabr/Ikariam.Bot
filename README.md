@@ -23,11 +23,11 @@ A little helper to simplify actions, as well as much more ... for you! :smiley:
 
 ### How to use it? (Windows)
 
-Unpack the downloaded archive **[Ikariam-Bot.zip](https://github.com/cfHxqA/Ikariam.Bot/raw/master/Ikariam-Bot.zip)**. If this is all done, start the application and set your settings!
+Unpack the downloaded archive **[Ikariam-Bot.zip](https://github.com/cfHxqA/Ikariam.Bot/raw/main/Ikariam-Bot.zip)**. If this is all done, start the application and set your settings!
 
 ### How to use it? (Linux-/MacOS)
 
-Unpack the downloaded archive **[Ikariam-Bot.zip](https://github.com/cfHxqA/Ikariam.Bot/raw/master/Ikariam-Bot.zip)**. If this is all done, start the application and set your settings!
+Unpack the downloaded archive **[Ikariam-Bot.zip](https://github.com/cfHxqA/Ikariam.Bot/raw/main/Ikariam-Bot.zip)**. If this is all done, start the application and set your settings!
 
 Enter the following command into the command line to start the bot - switch before into the directory:
 `dotnet /your/location/BotNix.App.dll`
