@@ -10,7 +10,7 @@
 A little helper to simplify actions, as well as much more ... for you! :smiley:
 
 ### Features
-* Automatic building complete with ambrosia (if cheaper then 1-minute)
+* Automatic building complete with ambrosia (if cheaper then 5-minutes)
 * Automatic raids (with future update)
 * Supported all countries-/server
 * Supported anti-captcha service
