@@ -5,7 +5,7 @@
   <img src="https://https://gf2.geo.gfsrv.net/cdn1f/c76938fc03c82f22205dc09e19d440.png" />
 </p>
 
-# Ikariam.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2023.08.01/)
+# Ikariam.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2023.08.01/) [![Discord](https://img.shields.io/discord/1140278313584169080.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/RAQXhyCRsN)
 
 A little helper to simplify actions, as well as much more ... for you! :smiley:
 
